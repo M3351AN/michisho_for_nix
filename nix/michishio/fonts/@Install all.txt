@@ -1,0 +1,1 @@
+Select all and right-click to install for all users. No effect if not installed
